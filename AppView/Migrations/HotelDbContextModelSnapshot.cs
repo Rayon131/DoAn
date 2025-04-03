@@ -347,6 +347,10 @@ namespace AppView.Migrations
                         .HasMaxLength(100)
                         .HasColumnType("nvarchar(100)");
 
+                    b.Property<string>("NewMatKhau")
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
+
                     b.Property<string>("Quyen")
                         .HasColumnType("nvarchar(max)");
 

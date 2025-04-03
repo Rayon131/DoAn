@@ -58,14 +58,11 @@ namespace AppView
 			   .HasOne(ldp => ldp.LoaiPhong)
 			   .WithMany()
 			   .HasForeignKey(ldp => ldp.LoaiPhongID);
-           /* modelBuilder.Entity<Booking>()
-			   .HasOne(b => b.) // Booking có một TaiKhoann
-			   .WithMany() // TaiKhoann có thể có nhiều Booking
-			   .HasForeignKey(b => b.tkId); // Khóa phụ là tkId*/
+		
 
 
 
-        }
+		}
 	    public DbSet<AppView.ViewModels.ItemMenu> ItemMenu { get; set; } = default!;
 
 		

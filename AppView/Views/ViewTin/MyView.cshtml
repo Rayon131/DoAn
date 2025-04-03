@@ -24,7 +24,7 @@
                                     <img src="~/img/about/@item.HinhAnh" alt="" class="img-fluid">
                                 </a>
                             </div>
-                            <h2 class="heading mb-0"><a href="#">@item.TenTinTucChinh</a></h2>
+                            <h2 class="heading mb-0"><a href="@Url.Action("XemThem", "ViewTin", new { id = item.ID })">@item.TenTinTucChinh</a></h2>
                             <p>@item.NoiDungNgan</p>
                         </div>
                     </div>

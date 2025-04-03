@@ -131,6 +131,8 @@ namespace AppView.Controllers
             ViewData["Message"] = "Mã xác nhận đã được gửi lại. Vui lòng kiểm tra email của bạn.";
             return View("XacNhan");
         }
+       
+
 
     }
 }

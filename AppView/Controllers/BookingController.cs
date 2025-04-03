@@ -259,7 +259,7 @@ namespace AppView.Controllers
                 $"<p>Ngày trả phòng: {datPhong.NgayTra}</p>" +
                 $"<p>Số đêm: {datPhong.SoLuongPhong}</p>" +
                 $"<p>Giá phòng: {giaPhongFormatted} VNĐ/đêm</p>" +
-                $"<p>Tổng cộng: {giaPhongFormatted} VNĐ</p>" +
+                $"<p>Tổng cộng: {tongGiaFormatted} VNĐ</p>" +
                 $"<p>Nếu bạn cần thêm thông tin hoặc có yêu cầu đặc biệt, vui lòng liên hệ với chúng tôi qua số điện thoại.</p>" +
                 $"<p>Chúng tôi rất mong được chào đón bạn tại ROYAL và hy vọng bạn sẽ có một kỳ nghỉ tuyệt vời!</p>" +
                 $"<p>Trân trọng,</p>";

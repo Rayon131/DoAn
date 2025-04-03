@@ -3,12 +3,144 @@
   "WorkspaceRootPath": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appview\\areas\\admin\\controllers\\anhchitietscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|solutionrelative:appview\\areas\\admin\\controllers\\anhchitietscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appview\\areas\\admin\\controllers\\chitietroomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|solutionrelative:appview\\areas\\admin\\controllers\\chitietroomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appview\\areas\\admin\\controllers\\datphongscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|solutionrelative:appview\\areas\\admin\\controllers\\datphongscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appview\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|solutionrelative:appview\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appview\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|solutionrelative:appview\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A94E4927-8110-4D30-AE96-974F12D41B5E}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appdata\\hoteldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A94E4927-8110-4D30-AE96-974F12D41B5E}|AppData\\AppData.csproj|solutionrelative:appdata\\hoteldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appview\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|solutionrelative:appview\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appview\\views\\signup\\xacnhan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|solutionrelative:appview\\views\\signup\\xacnhan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appview\\models\\homemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|solutionrelative:appview\\models\\homemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appview\\views\\viewtin\\myview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|solutionrelative:appview\\views\\viewtin\\myview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appview\\viewcomponents\\dichvuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|solutionrelative:appview\\viewcomponents\\dichvuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appview\\views\\viewtin\\xemthem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|solutionrelative:appview\\views\\viewtin\\xemthem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appview\\views\\shared\\components\\dichvu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|solutionrelative:appview\\views\\shared\\components\\dichvu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appview\\viewmodels\\dichvuvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|solutionrelative:appview\\viewmodels\\dichvuvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appview\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|solutionrelative:appview\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appview\\controllers\\signupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|solutionrelative:appview\\controllers\\signupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appview\\models\\hoteldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|solutionrelative:appview\\models\\hoteldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appview\\views\\login\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|solutionrelative:appview\\views\\login\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appview\\views\\forgotpassword\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|solutionrelative:appview\\views\\forgotpassword\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appview\\views\\signup\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|solutionrelative:appview\\views\\signup\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appview\\controllers\\forgotpasswordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|solutionrelative:appview\\controllers\\forgotpasswordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A94E4927-8110-4D30-AE96-974F12D41B5E}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appdata\\taikhoann.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A94E4927-8110-4D30-AE96-974F12D41B5E}|AppData\\AppData.csproj|solutionrelative:appdata\\taikhoann.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appview\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|solutionrelative:appview\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|solutionrelative:appview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appview\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|solutionrelative:appview\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appview\\views\\booking\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|solutionrelative:appview\\views\\booking\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appview\\views\\booking\\mybooking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|solutionrelative:appview\\views\\booking\\mybooking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appview\\hubs\\bookinghub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|solutionrelative:appview\\hubs\\bookinghub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appview\\areas\\admin\\views\\admindashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|solutionrelative:appview\\areas\\admin\\views\\admindashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appview\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|solutionrelative:appview\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A94E4927-8110-4D30-AE96-974F12D41B5E}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appdata\\datphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A94E4927-8110-4D30-AE96-974F12D41B5E}|AppData\\AppData.csproj|solutionrelative:appdata\\datphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A94E4927-8110-4D30-AE96-974F12D41B5E}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appdata\\loaiphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A94E4927-8110-4D30-AE96-974F12D41B5E}|AppData\\AppData.csproj|solutionrelative:appdata\\loaiphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BBCFD5-C08C-4989-B170-2C4ACD0316B6}|AppAPI\\AppAPI.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appapi\\controllers\\datphongscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7BBCFD5-C08C-4989-B170-2C4ACD0316B6}|AppAPI\\AppAPI.csproj|solutionrelative:appapi\\controllers\\datphongscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A94E4927-8110-4D30-AE96-974F12D41B5E}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appdata\\lichdatphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A94E4927-8110-4D30-AE96-974F12D41B5E}|AppData\\AppData.csproj|solutionrelative:appdata\\lichdatphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appview\\views\\booking\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|solutionrelative:appview\\views\\booking\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appview\\areas\\admin\\controllers\\loaiphongscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,16 +155,8 @@
       "RelativeMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|solutionrelative:appview\\areas\\admin\\views\\anhchitiets\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A94E4927-8110-4D30-AE96-974F12D41B5E}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appdata\\loaiphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A94E4927-8110-4D30-AE96-974F12D41B5E}|AppData\\AppData.csproj|solutionrelative:appdata\\loaiphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appview\\areas\\admin\\controllers\\loaiphongdichvuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|solutionrelative:appview\\areas\\admin\\controllers\\loaiphongdichvuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appview\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|solutionrelative:appview\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appview\\areas\\admin\\controllers\\menuitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,32 +171,8 @@
       "RelativeMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|solutionrelative:appview\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appview\\views\\signup\\xacnhan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|solutionrelative:appview\\views\\signup\\xacnhan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appview\\views\\booking\\mybooking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|solutionrelative:appview\\views\\booking\\mybooking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appview\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|solutionrelative:appview\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appview\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|solutionrelative:appview\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appview\\views\\booking\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|solutionrelative:appview\\views\\booking\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|solutionrelative:appview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appview\\models\\hoteldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|solutionrelative:appview\\models\\hoteldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appview\\models\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -83,32 +183,12 @@
       "RelativeMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|solutionrelative:appview\\models\\service\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appview\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|solutionrelative:appview\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A94E4927-8110-4D30-AE96-974F12D41B5E}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appdata\\taikhoann.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A94E4927-8110-4D30-AE96-974F12D41B5E}|AppData\\AppData.csproj|solutionrelative:appdata\\taikhoann.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A94E4927-8110-4D30-AE96-974F12D41B5E}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appdata\\tintuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A94E4927-8110-4D30-AE96-974F12D41B5E}|AppData\\AppData.csproj|solutionrelative:appdata\\tintuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A94E4927-8110-4D30-AE96-974F12D41B5E}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appdata\\dichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A94E4927-8110-4D30-AE96-974F12D41B5E}|AppData\\AppData.csproj|solutionrelative:appdata\\dichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A94E4927-8110-4D30-AE96-974F12D41B5E}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appdata\\datphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A94E4927-8110-4D30-AE96-974F12D41B5E}|AppData\\AppData.csproj|solutionrelative:appdata\\datphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appview\\areas\\admin\\controllers\\datphongscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|solutionrelative:appview\\areas\\admin\\controllers\\datphongscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appview\\areas\\admin\\controllers\\chitietroomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|solutionrelative:appview\\areas\\admin\\controllers\\chitietroomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appview\\areas\\admin\\controllers\\dichvuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -129,10 +209,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appview\\areas\\admin\\controllers\\admindashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|solutionrelative:appview\\areas\\admin\\controllers\\admindashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appview\\areas\\admin\\controllers\\anhchitietscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|solutionrelative:appview\\areas\\admin\\controllers\\anhchitietscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appview\\areas\\admin\\views\\slides\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -161,14 +237,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appview\\bundleconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|solutionrelative:appview\\bundleconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appview\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|solutionrelative:appview\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A94E4927-8110-4D30-AE96-974F12D41B5E}|AppData\\AppData.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appdata\\hoteldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A94E4927-8110-4D30-AE96-974F12D41B5E}|AppData\\AppData.csproj|solutionrelative:appdata\\hoteldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appview\\migrations\\20250116034731_luanup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -201,6 +269,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appview\\migrations\\20250116072604_uaua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|solutionrelative:appview\\migrations\\20250116072604_uaua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|c:\\users\\dattb\\onedrive\\desktop\\boking\\appview\\migrations\\20250319080922_mkmoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B1A17D-A672-450D-AE2E-5CE836BD9308}|AppView\\AppView.csproj|solutionrelative:appview\\migrations\\20250319080922_mkmoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -218,256 +290,250 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LoaiPhongDichVusController.cs",
-              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Controllers\\LoaiPhongDichVusController.cs",
-              "RelativeDocumentMoniker": "AppView\\Areas\\Admin\\Controllers\\LoaiPhongDichVusController.cs",
-              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Controllers\\LoaiPhongDichVusController.cs",
-              "RelativeToolTip": "AppView\\Areas\\Admin\\Controllers\\LoaiPhongDichVusController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T08:25:21.415Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoaiPhongsController.cs",
-              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Controllers\\LoaiPhongsController.cs",
-              "RelativeDocumentMoniker": "AppView\\Areas\\Admin\\Controllers\\LoaiPhongsController.cs",
-              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Controllers\\LoaiPhongsController.cs",
-              "RelativeToolTip": "AppView\\Areas\\Admin\\Controllers\\LoaiPhongsController.cs",
-              "ViewState": "AgIAAJUAAAAAAAAAAAAAAJ8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T08:25:32.609Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LoaiPhong.cs",
-              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppData\\LoaiPhong.cs",
-              "RelativeDocumentMoniker": "AppData\\LoaiPhong.cs",
-              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppData\\LoaiPhong.cs",
-              "RelativeToolTip": "AppData\\LoaiPhong.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAUwBgAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T04:25:09.032Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Signup.cshtml",
-              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Views\\Signup\\Signup.cshtml",
-              "RelativeDocumentMoniker": "AppView\\Views\\Signup\\Signup.cshtml",
-              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Views\\Signup\\Signup.cshtml",
-              "RelativeToolTip": "AppView\\Views\\Signup\\Signup.cshtml",
-              "ViewState": "AgIAADQAAAAAAAAAAAAqwHYAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-16T03:48:16.949Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SignupController.cs",
-              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Controllers\\SignupController.cs",
-              "RelativeDocumentMoniker": "AppView\\Controllers\\SignupController.cs",
-              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Controllers\\SignupController.cs",
-              "RelativeToolTip": "AppView\\Controllers\\SignupController.cs",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAqwF0AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T03:49:25.295Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "BookingController.cs",
               "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Controllers\\BookingController.cs",
               "RelativeDocumentMoniker": "AppView\\Controllers\\BookingController.cs",
               "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Controllers\\BookingController.cs",
               "RelativeToolTip": "AppView\\Controllers\\BookingController.cs",
-              "ViewState": "AgIAAPkAAAAAAAAAAAAqwBABAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAPkAAAAAAAAAAAAqwAkBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T04:10:29.139Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Views\\AnhChiTiets\\Create.cshtml",
-              "RelativeDocumentMoniker": "AppView\\Areas\\Admin\\Views\\AnhChiTiets\\Create.cshtml",
-              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Views\\AnhChiTiets\\Create.cshtml",
-              "RelativeToolTip": "AppView\\Areas\\Admin\\Views\\AnhChiTiets\\Create.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-17T07:17:41.047Z"
+              "WhenOpened": "2025-01-16T04:10:29.139Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Views\\LoaiPhongs\\Edit.cshtml",
-              "RelativeDocumentMoniker": "AppView\\Areas\\Admin\\Views\\LoaiPhongs\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Views\\LoaiPhongs\\Edit.cshtml",
-              "RelativeToolTip": "AppView\\Areas\\Admin\\Views\\LoaiPhongs\\Edit.cshtml",
-              "ViewState": "AgIAACIAAAAAAAAAAAAgwCsAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-17T08:42:21.58Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SlidesController.cs",
-              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Controllers\\SlidesController.cs",
-              "RelativeDocumentMoniker": "AppView\\Areas\\Admin\\Controllers\\SlidesController.cs",
-              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Controllers\\SlidesController.cs",
-              "RelativeToolTip": "AppView\\Areas\\Admin\\Controllers\\SlidesController.cs",
-              "ViewState": "AgIAALcAAAAAAAAAAAAuwMkAAAAJAAAAAAAAAA==",
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "AppView\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "AppView\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T08:02:46.806Z"
+              "WhenOpened": "2025-01-16T06:54:49.35Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "AppView\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "AppView\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAEIAAABhAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "DatPhongsController.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Controllers\\DatPhongsController.cs",
+              "RelativeDocumentMoniker": "AppView\\Areas\\Admin\\Controllers\\DatPhongsController.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Controllers\\DatPhongsController.cs",
+              "RelativeToolTip": "AppView\\Areas\\Admin\\Controllers\\DatPhongsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T08:02:42.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChiTietRoomController.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Controllers\\ChiTietRoomController.cs",
+              "RelativeDocumentMoniker": "AppView\\Areas\\Admin\\Controllers\\ChiTietRoomController.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Controllers\\ChiTietRoomController.cs",
+              "RelativeToolTip": "AppView\\Areas\\Admin\\Controllers\\ChiTietRoomController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T08:34:58.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnhChiTietsController.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Controllers\\AnhChiTietsController.cs",
+              "RelativeDocumentMoniker": "AppView\\Areas\\Admin\\Controllers\\AnhChiTietsController.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Controllers\\AnhChiTietsController.cs",
+              "RelativeToolTip": "AppView\\Areas\\Admin\\Controllers\\AnhChiTietsController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T08:02:41.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HotelDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppData\\HotelDbContext.cs",
+              "RelativeDocumentMoniker": "AppData\\HotelDbContext.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppData\\HotelDbContext.cs",
+              "RelativeToolTip": "AppData\\HotelDbContext.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAwEAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T04:12:17.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppView\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AppView\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAIwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-17T06:43:43.678Z"
+              "WhenOpened": "2025-03-19T12:29:49.17Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 7,
               "Title": "XacNhan.cshtml",
               "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Views\\Signup\\XacNhan.cshtml",
               "RelativeDocumentMoniker": "AppView\\Views\\Signup\\XacNhan.cshtml",
               "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Views\\Signup\\XacNhan.cshtml",
               "RelativeToolTip": "AppView\\Views\\Signup\\XacNhan.cshtml",
-              "ViewState": "AgIAAGIAAAAAAAAAAAAqwHUAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAkwHkAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-16T08:51:22.612Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "MenuItemsController.cs",
-              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Controllers\\MenuItemsController.cs",
-              "RelativeDocumentMoniker": "AppView\\Areas\\Admin\\Controllers\\MenuItemsController.cs",
-              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Controllers\\MenuItemsController.cs",
-              "RelativeToolTip": "AppView\\Areas\\Admin\\Controllers\\MenuItemsController.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAA3wDYAAAAJAAAAAAAAAA==",
+              "Title": "HomeModel.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Models\\HomeModel.cs",
+              "RelativeDocumentMoniker": "AppView\\Models\\HomeModel.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Models\\HomeModel.cs",
+              "RelativeToolTip": "AppView\\Models\\HomeModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T07:46:23.264Z"
+              "WhenOpened": "2025-03-19T08:07:32.202Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\appsettings.json",
-              "RelativeDocumentMoniker": "AppView\\appsettings.json",
-              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\appsettings.json",
-              "RelativeToolTip": "AppView\\appsettings.json",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-16T07:29:44.222Z"
+              "DocumentIndex": 9,
+              "Title": "MyView.cshtml",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Views\\ViewTin\\MyView.cshtml",
+              "RelativeDocumentMoniker": "AppView\\Views\\ViewTin\\MyView.cshtml",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Views\\ViewTin\\MyView.cshtml",
+              "RelativeToolTip": "AppView\\Views\\ViewTin\\MyView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T12:31:38.62Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "AppView\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "AppView\\Views\\_ViewStart.cshtml",
+              "DocumentIndex": 10,
+              "Title": "DichVuViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\ViewComponents\\DichVuViewComponent.cs",
+              "RelativeDocumentMoniker": "AppView\\ViewComponents\\DichVuViewComponent.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\ViewComponents\\DichVuViewComponent.cs",
+              "RelativeToolTip": "AppView\\ViewComponents\\DichVuViewComponent.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T12:31:48.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "XemThem.cshtml",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Views\\ViewTin\\XemThem.cshtml",
+              "RelativeDocumentMoniker": "AppView\\Views\\ViewTin\\XemThem.cshtml",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Views\\ViewTin\\XemThem.cshtml",
+              "RelativeToolTip": "AppView\\Views\\ViewTin\\XemThem.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-16T07:53:51.945Z"
+              "WhenOpened": "2025-03-19T12:35:05.81Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "MyBooking.cshtml",
-              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Views\\Booking\\MyBooking.cshtml",
-              "RelativeDocumentMoniker": "AppView\\Views\\Booking\\MyBooking.cshtml",
-              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Views\\Booking\\MyBooking.cshtml",
-              "RelativeToolTip": "AppView\\Views\\Booking\\MyBooking.cshtml",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Views\\Shared\\Components\\DichVu\\Default.cshtml",
+              "RelativeDocumentMoniker": "AppView\\Views\\Shared\\Components\\DichVu\\Default.cshtml",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Views\\Shared\\Components\\DichVu\\Default.cshtml",
+              "RelativeToolTip": "AppView\\Views\\Shared\\Components\\DichVu\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-16T08:50:39.424Z"
+              "WhenOpened": "2025-03-19T12:32:19.757Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Views\\Booking\\Create.cshtml",
-              "RelativeDocumentMoniker": "AppView\\Views\\Booking\\Create.cshtml",
-              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Views\\Booking\\Create.cshtml",
-              "RelativeToolTip": "AppView\\Views\\Booking\\Create.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAC4AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-16T03:56:52.192Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Program.cs",
-              "RelativeDocumentMoniker": "AppView\\Program.cs",
-              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Program.cs",
-              "RelativeToolTip": "AppView\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "DichVuVM.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\ViewModels\\DichVuVM.cs",
+              "RelativeDocumentMoniker": "AppView\\ViewModels\\DichVuVM.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\ViewModels\\DichVuVM.cs",
+              "RelativeToolTip": "AppView\\ViewModels\\DichVuVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T07:53:49.261Z"
+              "WhenOpened": "2025-03-19T12:32:04.202Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
+              "Title": "ChangePassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Views\\Login\\ChangePassword.cshtml",
+              "RelativeDocumentMoniker": "AppView\\Views\\Login\\ChangePassword.cshtml",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Views\\Login\\ChangePassword.cshtml",
+              "RelativeToolTip": "AppView\\Views\\Login\\ChangePassword.cshtml",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAmwH0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T08:12:32.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "HotelDbContext.cs",
               "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Models\\HotelDbContext.cs",
               "RelativeDocumentMoniker": "AppView\\Models\\HotelDbContext.cs",
               "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Models\\HotelDbContext.cs",
               "RelativeToolTip": "AppView\\Models\\HotelDbContext.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAADMAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAmwDwAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-16T04:25:32.313Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "EmailService.cs",
-              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Models\\Service\\EmailService.cs",
-              "RelativeDocumentMoniker": "AppView\\Models\\Service\\EmailService.cs",
-              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Models\\Service\\EmailService.cs",
-              "RelativeToolTip": "AppView\\Models\\Service\\EmailService.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAcAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "SignupController.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Controllers\\SignupController.cs",
+              "RelativeDocumentMoniker": "AppView\\Controllers\\SignupController.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Controllers\\SignupController.cs",
+              "RelativeToolTip": "AppView\\Controllers\\SignupController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAqwIUAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T08:54:56.927Z"
+              "WhenOpened": "2025-01-16T03:49:25.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "AppView\\Views\\Login\\Login.cshtml",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "AppView\\Views\\Login\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T07:46:05.373Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "IEmailService.cs",
-              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Models\\Service\\IEmailService.cs",
-              "RelativeDocumentMoniker": "AppView\\Models\\Service\\IEmailService.cs",
-              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Models\\Service\\IEmailService.cs",
-              "RelativeToolTip": "AppView\\Models\\Service\\IEmailService.cs",
+              "Title": "Signup.cshtml",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Views\\Signup\\Signup.cshtml",
+              "RelativeDocumentMoniker": "AppView\\Views\\Signup\\Signup.cshtml",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Views\\Signup\\Signup.cshtml",
+              "RelativeToolTip": "AppView\\Views\\Signup\\Signup.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T08:56:35.287Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T03:48:16.949Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "AppView\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "AppView\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAAwDMAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T06:54:49.35Z"
+              "DocumentIndex": 18,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Views\\ForgotPassword\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "AppView\\Views\\ForgotPassword\\ForgotPassword.cshtml",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Views\\ForgotPassword\\ForgotPassword.cshtml",
+              "RelativeToolTip": "AppView\\Views\\ForgotPassword\\ForgotPassword.cshtml",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwC0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T07:37:44.423Z"
             },
             {
               "$type": "Document",
@@ -477,229 +543,61 @@
               "RelativeDocumentMoniker": "AppData\\TaiKhoann.cs",
               "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppData\\TaiKhoann.cs",
               "RelativeToolTip": "AppData\\TaiKhoann.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA2wBoAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwBwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-16T03:41:23.497Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "20250116083540_upadt.cs",
-              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Migrations\\20250116083540_upadt.cs",
-              "RelativeDocumentMoniker": "AppView\\Migrations\\20250116083540_upadt.cs",
-              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Migrations\\20250116083540_upadt.cs",
-              "RelativeToolTip": "AppView\\Migrations\\20250116083540_upadt.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T08:35:40.707Z"
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\appsettings.json",
+              "RelativeDocumentMoniker": "AppView\\appsettings.json",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\appsettings.json",
+              "RelativeToolTip": "AppView\\appsettings.json",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-16T07:29:44.222Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "TinTuc.cs",
-              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppData\\TinTuc.cs",
-              "RelativeDocumentMoniker": "AppData\\TinTuc.cs",
-              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppData\\TinTuc.cs",
-              "RelativeToolTip": "AppData\\TinTuc.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 20,
+              "Title": "ForgotPasswordController.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Controllers\\ForgotPasswordController.cs",
+              "RelativeDocumentMoniker": "AppView\\Controllers\\ForgotPasswordController.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Controllers\\ForgotPasswordController.cs",
+              "RelativeToolTip": "AppView\\Controllers\\ForgotPasswordController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAuwDAAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T04:12:15.809Z"
+              "WhenOpened": "2025-03-19T07:26:40.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "20250319080922_mkmoi.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Migrations\\20250319080922_mkmoi.cs",
+              "RelativeDocumentMoniker": "AppView\\Migrations\\20250319080922_mkmoi.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Migrations\\20250319080922_mkmoi.cs",
+              "RelativeToolTip": "AppView\\Migrations\\20250319080922_mkmoi.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T08:09:22.724Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "DichVu.cs",
-              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppData\\DichVu.cs",
-              "RelativeDocumentMoniker": "AppData\\DichVu.cs",
-              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppData\\DichVu.cs",
-              "RelativeToolTip": "AppData\\DichVu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Program.cs",
+              "RelativeDocumentMoniker": "AppView\\Program.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Program.cs",
+              "RelativeToolTip": "AppView\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T07:38:48.664Z"
+              "WhenOpened": "2025-01-16T07:53:49.261Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
-              "Title": "DatPhong.cs",
-              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppData\\DatPhong.cs",
-              "RelativeDocumentMoniker": "AppData\\DatPhong.cs",
-              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppData\\DatPhong.cs",
-              "RelativeToolTip": "AppData\\DatPhong.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAkwGYAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T04:12:00.829Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "DatPhongsController.cs",
-              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Controllers\\DatPhongsController.cs",
-              "RelativeDocumentMoniker": "AppView\\Areas\\Admin\\Controllers\\DatPhongsController.cs",
-              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Controllers\\DatPhongsController.cs",
-              "RelativeToolTip": "AppView\\Areas\\Admin\\Controllers\\DatPhongsController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T08:02:42.907Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "ChiTietRoomController.cs",
-              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Controllers\\ChiTietRoomController.cs",
-              "RelativeDocumentMoniker": "AppView\\Areas\\Admin\\Controllers\\ChiTietRoomController.cs",
-              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Controllers\\ChiTietRoomController.cs",
-              "RelativeToolTip": "AppView\\Areas\\Admin\\Controllers\\ChiTietRoomController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T08:34:58.776Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "DichVusController.cs",
-              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Controllers\\DichVusController.cs",
-              "RelativeDocumentMoniker": "AppView\\Areas\\Admin\\Controllers\\DichVusController.cs",
-              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Controllers\\DichVusController.cs",
-              "RelativeToolTip": "AppView\\Areas\\Admin\\Controllers\\DichVusController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T08:25:16.4Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "LienHesController.cs",
-              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Controllers\\LienHesController.cs",
-              "RelativeDocumentMoniker": "AppView\\Areas\\Admin\\Controllers\\LienHesController.cs",
-              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Controllers\\LienHesController.cs",
-              "RelativeToolTip": "AppView\\Areas\\Admin\\Controllers\\LienHesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T08:25:20.872Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "LoGoesController.cs",
-              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Controllers\\LoGoesController.cs",
-              "RelativeDocumentMoniker": "AppView\\Areas\\Admin\\Controllers\\LoGoesController.cs",
-              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Controllers\\LoGoesController.cs",
-              "RelativeToolTip": "AppView\\Areas\\Admin\\Controllers\\LoGoesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T08:25:22.765Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "LoaiPhongVHHController.cs",
-              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Controllers\\LoaiPhongVHHController.cs",
-              "RelativeDocumentMoniker": "AppView\\Areas\\Admin\\Controllers\\LoaiPhongVHHController.cs",
-              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Controllers\\LoaiPhongVHHController.cs",
-              "RelativeToolTip": "AppView\\Areas\\Admin\\Controllers\\LoaiPhongVHHController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAUAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T08:25:23.255Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "AdminDashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Controllers\\AdminDashboardController.cs",
-              "RelativeDocumentMoniker": "AppView\\Areas\\Admin\\Controllers\\AdminDashboardController.cs",
-              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Controllers\\AdminDashboardController.cs",
-              "RelativeToolTip": "AppView\\Areas\\Admin\\Controllers\\AdminDashboardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T08:25:19.089Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "AnhChiTietsController.cs",
-              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Controllers\\AnhChiTietsController.cs",
-              "RelativeDocumentMoniker": "AppView\\Areas\\Admin\\Controllers\\AnhChiTietsController.cs",
-              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Controllers\\AnhChiTietsController.cs",
-              "RelativeToolTip": "AppView\\Areas\\Admin\\Controllers\\AnhChiTietsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T08:02:41.114Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "LoGo.cs",
-              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppData\\LoGo.cs",
-              "RelativeDocumentMoniker": "AppData\\LoGo.cs",
-              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppData\\LoGo.cs",
-              "RelativeToolTip": "AppData\\LoGo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T07:58:52.633Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Slide.cs",
-              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppData\\Slide.cs",
-              "RelativeDocumentMoniker": "AppData\\Slide.cs",
-              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppData\\Slide.cs",
-              "RelativeToolTip": "AppData\\Slide.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T07:59:05.515Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Views\\Slides\\Edit.cshtml",
-              "RelativeDocumentMoniker": "AppView\\Areas\\Admin\\Views\\Slides\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Views\\Slides\\Edit.cshtml",
-              "RelativeToolTip": "AppView\\Areas\\Admin\\Views\\Slides\\Edit.cshtml",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-16T08:03:32.186Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Views\\MenuItems\\Create.cshtml",
-              "RelativeDocumentMoniker": "AppView\\Areas\\Admin\\Views\\MenuItems\\Create.cshtml",
-              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Views\\MenuItems\\Create.cshtml",
-              "RelativeToolTip": "AppView\\Areas\\Admin\\Views\\MenuItems\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-16T07:47:50.686Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "MenuItem.cs",
-              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppData\\MenuItem.cs",
-              "RelativeDocumentMoniker": "AppData\\MenuItem.cs",
-              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppData\\MenuItem.cs",
-              "RelativeToolTip": "AppData\\MenuItem.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T07:41:40.009Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "AppView\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "AppView\\ScaffoldingReadMe.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-01-16T07:53:54.227Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
               "Title": "RoomController.cs",
               "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Controllers\\RoomController.cs",
               "RelativeDocumentMoniker": "AppView\\Controllers\\RoomController.cs",
@@ -711,7 +609,415 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DatPhong.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppData\\DatPhong.cs",
+              "RelativeDocumentMoniker": "AppData\\DatPhong.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppData\\DatPhong.cs",
+              "RelativeToolTip": "AppData\\DatPhong.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwBMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T04:12:00.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Views\\AdminDashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppView\\Areas\\Admin\\Views\\AdminDashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Views\\AdminDashboard\\Index.cshtml",
+              "RelativeToolTip": "AppView\\Areas\\Admin\\Views\\AdminDashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T14:41:51.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Views\\Booking\\Details.cshtml",
+              "RelativeDocumentMoniker": "AppView\\Views\\Booking\\Details.cshtml",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Views\\Booking\\Details.cshtml",
+              "RelativeToolTip": "AppView\\Views\\Booking\\Details.cshtml",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAFoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T14:42:58.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BookingHub.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Hubs\\BookingHub.cs",
+              "RelativeDocumentMoniker": "AppView\\Hubs\\BookingHub.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Hubs\\BookingHub.cs",
+              "RelativeToolTip": "AppView\\Hubs\\BookingHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T14:42:27.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MyBooking.cshtml",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Views\\Booking\\MyBooking.cshtml",
+              "RelativeDocumentMoniker": "AppView\\Views\\Booking\\MyBooking.cshtml",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Views\\Booking\\MyBooking.cshtml",
+              "RelativeToolTip": "AppView\\Views\\Booking\\MyBooking.cshtml",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAEgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T08:50:39.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "AppView\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "AppView\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T16:16:26.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DatPhongsController.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppAPI\\Controllers\\DatPhongsController.cs",
+              "RelativeDocumentMoniker": "AppAPI\\Controllers\\DatPhongsController.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppAPI\\Controllers\\DatPhongsController.cs",
+              "RelativeToolTip": "AppAPI\\Controllers\\DatPhongsController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T12:15:41.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LoaiPhong.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppData\\LoaiPhong.cs",
+              "RelativeDocumentMoniker": "AppData\\LoaiPhong.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppData\\LoaiPhong.cs",
+              "RelativeToolTip": "AppData\\LoaiPhong.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA0wBgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T04:25:09.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Views\\Booking\\Create.cshtml",
+              "RelativeDocumentMoniker": "AppView\\Views\\Booking\\Create.cshtml",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Views\\Booking\\Create.cshtml",
+              "RelativeToolTip": "AppView\\Views\\Booking\\Create.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T03:56:52.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "LichDatPhong.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppData\\LichDatPhong.cs",
+              "RelativeDocumentMoniker": "AppData\\LichDatPhong.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppData\\LichDatPhong.cs",
+              "RelativeToolTip": "AppData\\LichDatPhong.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T11:48:38.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "LoaiPhongsController.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Controllers\\LoaiPhongsController.cs",
+              "RelativeDocumentMoniker": "AppView\\Areas\\Admin\\Controllers\\LoaiPhongsController.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Controllers\\LoaiPhongsController.cs",
+              "RelativeToolTip": "AppView\\Areas\\Admin\\Controllers\\LoaiPhongsController.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAAAJ8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T08:25:32.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "LoaiPhongDichVusController.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Controllers\\LoaiPhongDichVusController.cs",
+              "RelativeDocumentMoniker": "AppView\\Areas\\Admin\\Controllers\\LoaiPhongDichVusController.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Controllers\\LoaiPhongDichVusController.cs",
+              "RelativeToolTip": "AppView\\Areas\\Admin\\Controllers\\LoaiPhongDichVusController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T08:25:21.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Views\\AnhChiTiets\\Create.cshtml",
+              "RelativeDocumentMoniker": "AppView\\Areas\\Admin\\Views\\AnhChiTiets\\Create.cshtml",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Views\\AnhChiTiets\\Create.cshtml",
+              "RelativeToolTip": "AppView\\Areas\\Admin\\Views\\AnhChiTiets\\Create.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T07:17:41.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Views\\LoaiPhongs\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AppView\\Areas\\Admin\\Views\\LoaiPhongs\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Views\\LoaiPhongs\\Edit.cshtml",
+              "RelativeToolTip": "AppView\\Areas\\Admin\\Views\\LoaiPhongs\\Edit.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwCsAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T08:42:21.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "SlidesController.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Controllers\\SlidesController.cs",
+              "RelativeDocumentMoniker": "AppView\\Areas\\Admin\\Controllers\\SlidesController.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Controllers\\SlidesController.cs",
+              "RelativeToolTip": "AppView\\Areas\\Admin\\Controllers\\SlidesController.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAAAuwMkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T08:02:46.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AppView\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AppView\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEIAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T06:43:43.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MenuItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Controllers\\MenuItemsController.cs",
+              "RelativeDocumentMoniker": "AppView\\Areas\\Admin\\Controllers\\MenuItemsController.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Controllers\\MenuItemsController.cs",
+              "RelativeToolTip": "AppView\\Areas\\Admin\\Controllers\\MenuItemsController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAA3wDYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T07:46:23.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "AppView\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "AppView\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T07:53:51.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Models\\Service\\EmailService.cs",
+              "RelativeDocumentMoniker": "AppView\\Models\\Service\\EmailService.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Models\\Service\\EmailService.cs",
+              "RelativeToolTip": "AppView\\Models\\Service\\EmailService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T08:54:56.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Models\\Service\\IEmailService.cs",
+              "RelativeDocumentMoniker": "AppView\\Models\\Service\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Models\\Service\\IEmailService.cs",
+              "RelativeToolTip": "AppView\\Models\\Service\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T08:56:35.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "20250116083540_upadt.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Migrations\\20250116083540_upadt.cs",
+              "RelativeDocumentMoniker": "AppView\\Migrations\\20250116083540_upadt.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Migrations\\20250116083540_upadt.cs",
+              "RelativeToolTip": "AppView\\Migrations\\20250116083540_upadt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T08:35:40.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "TinTuc.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppData\\TinTuc.cs",
+              "RelativeDocumentMoniker": "AppData\\TinTuc.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppData\\TinTuc.cs",
+              "RelativeToolTip": "AppData\\TinTuc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T04:12:15.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "DichVu.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppData\\DichVu.cs",
+              "RelativeDocumentMoniker": "AppData\\DichVu.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppData\\DichVu.cs",
+              "RelativeToolTip": "AppData\\DichVu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T07:38:48.664Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 47,
+              "Title": "DichVusController.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Controllers\\DichVusController.cs",
+              "RelativeDocumentMoniker": "AppView\\Areas\\Admin\\Controllers\\DichVusController.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Controllers\\DichVusController.cs",
+              "RelativeToolTip": "AppView\\Areas\\Admin\\Controllers\\DichVusController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T08:25:16.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "LienHesController.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Controllers\\LienHesController.cs",
+              "RelativeDocumentMoniker": "AppView\\Areas\\Admin\\Controllers\\LienHesController.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Controllers\\LienHesController.cs",
+              "RelativeToolTip": "AppView\\Areas\\Admin\\Controllers\\LienHesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T08:25:20.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "LoGoesController.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Controllers\\LoGoesController.cs",
+              "RelativeDocumentMoniker": "AppView\\Areas\\Admin\\Controllers\\LoGoesController.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Controllers\\LoGoesController.cs",
+              "RelativeToolTip": "AppView\\Areas\\Admin\\Controllers\\LoGoesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T08:25:22.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "LoaiPhongVHHController.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Controllers\\LoaiPhongVHHController.cs",
+              "RelativeDocumentMoniker": "AppView\\Areas\\Admin\\Controllers\\LoaiPhongVHHController.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Controllers\\LoaiPhongVHHController.cs",
+              "RelativeToolTip": "AppView\\Areas\\Admin\\Controllers\\LoaiPhongVHHController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T08:25:23.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "AdminDashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Controllers\\AdminDashboardController.cs",
+              "RelativeDocumentMoniker": "AppView\\Areas\\Admin\\Controllers\\AdminDashboardController.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Controllers\\AdminDashboardController.cs",
+              "RelativeToolTip": "AppView\\Areas\\Admin\\Controllers\\AdminDashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T08:25:19.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "LoGo.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppData\\LoGo.cs",
+              "RelativeDocumentMoniker": "AppData\\LoGo.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppData\\LoGo.cs",
+              "RelativeToolTip": "AppData\\LoGo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T07:58:52.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Slide.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppData\\Slide.cs",
+              "RelativeDocumentMoniker": "AppData\\Slide.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppData\\Slide.cs",
+              "RelativeToolTip": "AppData\\Slide.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T07:59:05.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Views\\Slides\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AppView\\Areas\\Admin\\Views\\Slides\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Views\\Slides\\Edit.cshtml",
+              "RelativeToolTip": "AppView\\Areas\\Admin\\Views\\Slides\\Edit.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T08:03:32.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Views\\MenuItems\\Create.cshtml",
+              "RelativeDocumentMoniker": "AppView\\Areas\\Admin\\Views\\MenuItems\\Create.cshtml",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Areas\\Admin\\Views\\MenuItems\\Create.cshtml",
+              "RelativeToolTip": "AppView\\Areas\\Admin\\Views\\MenuItems\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T07:47:50.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppData\\MenuItem.cs",
+              "RelativeDocumentMoniker": "AppData\\MenuItem.cs",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppData\\MenuItem.cs",
+              "RelativeToolTip": "AppData\\MenuItem.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T07:41:40.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "AppView\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "AppView\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-16T07:53:54.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
               "Title": "20250116073113_data.cs",
               "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Migrations\\20250116073113_data.cs",
               "RelativeDocumentMoniker": "AppView\\Migrations\\20250116073113_data.cs",
@@ -723,7 +1029,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 65,
               "Title": "20250116071741_upttk.cs",
               "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Migrations\\20250116071741_upttk.cs",
               "RelativeDocumentMoniker": "AppView\\Migrations\\20250116071741_upttk.cs",
@@ -735,7 +1041,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 66,
               "Title": "20250116072604_uaua.cs",
               "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Migrations\\20250116072604_uaua.cs",
               "RelativeDocumentMoniker": "AppView\\Migrations\\20250116072604_uaua.cs",
@@ -747,7 +1053,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 58,
               "Title": "bundleconfig.json",
               "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\bundleconfig.json",
               "RelativeDocumentMoniker": "AppView\\bundleconfig.json",
@@ -759,7 +1065,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 60,
               "Title": "20250116043038_ha.cs",
               "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Migrations\\20250116043038_ha.cs",
               "RelativeDocumentMoniker": "AppView\\Migrations\\20250116043038_ha.cs",
@@ -771,7 +1077,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 61,
               "Title": "20250116042709_updatetk.cs",
               "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Migrations\\20250116042709_updatetk.cs",
               "RelativeDocumentMoniker": "AppView\\Migrations\\20250116042709_updatetk.cs",
@@ -783,19 +1089,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "HotelDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppData\\HotelDbContext.cs",
-              "RelativeDocumentMoniker": "AppData\\HotelDbContext.cs",
-              "ToolTip": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppData\\HotelDbContext.cs",
-              "RelativeToolTip": "AppData\\HotelDbContext.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T04:12:17.511Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 62,
               "Title": "20250116042006_datup.cs",
               "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Migrations\\20250116042006_datup.cs",
               "RelativeDocumentMoniker": "AppView\\Migrations\\20250116042006_datup.cs",
@@ -807,7 +1101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 59,
               "Title": "20250116034731_LuanUp.cs",
               "DocumentMoniker": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\Migrations\\20250116034731_LuanUp.cs",
               "RelativeDocumentMoniker": "AppView\\Migrations\\20250116034731_LuanUp.cs",

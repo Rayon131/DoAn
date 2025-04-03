@@ -99,5 +99,36 @@ namespace AppView.Controllers
 			}
 			return RedirectToAction("Index", "Home"); // Chuyển hướng về trang chính nếu không xác nhận
 		}
-	}
+        public IActionResult ChangePassword()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> ChangePassword(TaiKhoann model)
+        {
+            if (ModelState.IsValid)
+            {
+                var taiKhoan = await _context.TaiKhoans
+                    .FirstOrDefaultAsync(t => t.TaiKhoan == model.TaiKhoan && t.MatKhau == model.MatKhau);
+
+                if (taiKhoan == null)
+                {
+                    ModelState.AddModelError("", "Tài khoản hoặc mật khẩu hiện tại không đúng.");
+                    return View(model);
+                }
+
+                // Cập nhật mật khẩu mới
+                taiKhoan.MatKhau = model.NewMatKhau;
+                _context.Update(taiKhoan);
+                await _context.SaveChangesAsync();
+
+                TempData["SuccessMessage"] = "Mật khẩu đã được thay đổi thành công!";
+                return RedirectToAction("Login");
+            }
+
+            return View(model);
+        }
+    }
 }

@@ -978,3 +978,8 @@ C:\Users\dattb\OneDrive\Desktop\boking\AppView\obj\Debug\net8.0\staticwebassets.
 C:\Users\dattb\OneDrive\Desktop\boking\AppView\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\dattb\OneDrive\Desktop\boking\AppView\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\dattb\OneDrive\Desktop\boking\AppView\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\dattb\OneDrive\Desktop\boking\AppView\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\dattb\OneDrive\Desktop\boking\AppView\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\dattb\OneDrive\Desktop\boking\AppView\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\dattb\OneDrive\Desktop\boking\AppView\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\dattb\OneDrive\Desktop\boking\AppView\obj\Debug\net8.0\staticwebassets.build.json

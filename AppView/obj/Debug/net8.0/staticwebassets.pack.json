@@ -25,6 +25,10 @@
       "PackagePath": "staticwebassets\\img\\GG.png"
     },
     {
+      "Id": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\wwwroot\\img\\Majestic-removebg-preview (1)_20250319192548221.png",
+      "PackagePath": "staticwebassets\\img\\Majestic-removebg-preview (1)_20250319192548221.png"
+    },
+    {
       "Id": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\wwwroot\\img\\Remove-bg.ai_1732501085934.png",
       "PackagePath": "staticwebassets\\img\\Remove-bg.ai_1732501085934.png"
     },
@@ -55,6 +59,14 @@
     {
       "Id": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\wwwroot\\img\\about\\about-3.jpg",
       "PackagePath": "staticwebassets\\img\\about\\about-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\wwwroot\\img\\about\\about_2_20250319194036801.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\about_2_20250319194036801.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\wwwroot\\img\\about\\about_3_20250319194202536.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\about_3_20250319194202536.jpg"
     },
     {
       "Id": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\wwwroot\\img\\about\\amenities-bg.jpg",
@@ -655,6 +667,10 @@
     {
       "Id": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\wwwroot\\img\\room\\about-1_20250116151419917.jpg",
       "PackagePath": "staticwebassets\\img\\room\\about-1_20250116151419917.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\wwwroot\\img\\room\\img_3_20250319192825924.jpg",
+      "PackagePath": "staticwebassets\\img\\room\\img_3_20250319192825924.jpg"
     },
     {
       "Id": "C:\\Users\\dattb\\OneDrive\\Desktop\\boking\\AppView\\wwwroot\\img\\room\\room-1.jpg",

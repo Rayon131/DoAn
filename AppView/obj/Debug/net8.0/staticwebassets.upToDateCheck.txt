@@ -2,6 +2,8 @@ wwwroot\css\hover-style.css
 wwwroot\css\site.css
 wwwroot\css\style.css
 wwwroot\faviconn.ico
+wwwroot\img\about\about_2_20250319194036801.jpg
+wwwroot\img\about\about_3_20250319194202536.jpg
 wwwroot\img\about\about-1.jpg
 wwwroot\img\about\about-2.jpg
 wwwroot\img\about\about-3.jpg
@@ -145,8 +147,10 @@ wwwroot\img\logo.jpg
 wwwroot\img\logo_20241227113732211.jpeg
 wwwroot\img\logo_20241230094025374.jpeg
 wwwroot\img\logo_20241230143914547.jpeg
+wwwroot\img\Majestic-removebg-preview (1)_20250319192548221.png
 wwwroot\img\Remove-bg.ai_1732501085934.png
 wwwroot\img\room\about-1_20250116151419917.jpg
+wwwroot\img\room\img_3_20250319192825924.jpg
 wwwroot\img\room\room-1.jpg
 wwwroot\img\room\room-1_20241231101115145.jpg
 wwwroot\img\room\room-1_20250116143734744.jpg

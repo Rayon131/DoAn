@@ -23,6 +23,9 @@ namespace AppData
         [RegularExpression(@"^(?=.*[a-zA-Z])(?=.*\d).+$", ErrorMessage = "Mật khẩu phải chứa ít nhất một chữ cái và một số.")]
        
         public string MatKhau { get; set; }
+        [StringLength(100, MinimumLength = 6, ErrorMessage = "Mật khẩu phải từ 6 đến 100 ký tự.")]
+        [RegularExpression(@"^(?=.*[a-zA-Z])(?=.*\d).+$", ErrorMessage = "Mật khẩu phải chứa ít nhất một chữ cái và một số.")]
+        public string? NewMatKhau { get; set; }
         public string? Quyen { get; set; }
         public string? MaXacNhan { get; set; }
         public ICollection<DatPhong>? DatPhongs { get; set; }
